@@ -7,7 +7,7 @@
     
   - ☁️ I'm interested in cloud computing and backend architecture.
     
-  - 👩‍💻 I have experienced about Node.JS, React.js , RDS and more...
+  - 👩‍💻 I have experienced in Node.JS, React.js , RDS and more...
     
   - 🏅 AWS Solution Architect [View Credential](https://www.credly.com/badges/980b8de0-8bf7-49f6-9fee-879d5cf3fa2c/public_url)
     
