@@ -15,7 +15,7 @@
     
   - 📫 How to reach me [hninhnin.wai.career@gmail.com](mailto:hninhnin.wai.career@gmail.com)
 
-  - 📜 Here is my resume [here](https://github.com/your-username/your-repo-name/blob/main/your-resume.pdf).
+  - 📜 Here is my resume [here](https://github.com/hnin-hnin-wai/hnin-hnin-wai/blob/main/HNIN%20WAI_SoftwareDeveloper_Resume.pdf).
 
 
 <!--<h3 align="left">Connect with me:</h3>
