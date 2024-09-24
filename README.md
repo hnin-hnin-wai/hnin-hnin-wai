@@ -3,7 +3,7 @@
 
   - 🏫 I'm studying Computer Science Master Degree in MIU (Maharishi International University) now!
     
-  - 🌱 I’m currently learning GraphQL.
+  - 🌱 I’m currently learning Nex.js.
     
   - ☁️ I'm interested in cloud computing and backend architecture.
     
