@@ -12,6 +12,8 @@
   - 🏅 AWS Solution Architect [View Credential](https://www.credly.com/badges/980b8de0-8bf7-49f6-9fee-879d5cf3fa2c/public_url)
     
   - 🌍 Open to full-time, W-2 employment opportunities.
+
+  - 🚀 viist my portfolio [Welcome!](https://hnin-portfolio.vercel.app/)
     
   - 📫 How to reach me [hninhnin.wai.career@gmail.com](mailto:hninhnin.wai.career@gmail.com)
 
