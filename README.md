@@ -40,8 +40,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hnin-hnin-wai&show_icons=true&locale=en&layout=compact" alt="hnin-hnin-wai" /></p>
 
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hnin-hnin-wai&" alt="hnin-hnin-wai" /></p>
-
+-->
 
 <!--
 **hnin-hnin-wai/hnin-hnin-wai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
